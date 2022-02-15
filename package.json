@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "name": "awsomebook-es6",
   "version": "1.0.0",
   "description": "",
@@ -16,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/HectorTorresE/AwsomeBook-ES6/issues"
   },
-  "homepage": "https://github.com/HectorTorresE/AwsomeBook-ES6#readme"
+  "homepage": "https://github.com/HectorTorresE/AwsomeBook-ES6#readme",
+  "dependencies": {
+    "luxon": "^2.3.0"
+  }
 }
