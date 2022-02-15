@@ -1,4 +1,4 @@
-/* eslint-disable import/no-cycle */
+/*eslint import/no-unresolved: 2*/
 import BookList from '../modules/bookList.js';
 import { DateTime } from '../node_modules/luxon/build/es6/luxon.js';
 
@@ -13,7 +13,7 @@ const contact = document.getElementById('contact');
 const showAdd = document.getElementById('showAdd');
 const showCon = document.getElementById('showCon');
 const time = document.getElementById('time');
-// eslint-disable-next-line import/no-mutable-exports
+
 function showBooks() {
   showBook.classList.remove('Invisible');
   showBook.classList.add('visible');
