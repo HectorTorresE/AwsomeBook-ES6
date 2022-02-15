@@ -1,6 +1,7 @@
-/*eslint import/no-unresolved: 2*/
+/* eslint-disable import/no-cycle */
 import BookList from '../modules/bookList.js';
 import { DateTime } from '../node_modules/luxon/build/es6/luxon.js';
+// eslint-disable-next-line import/no-mutable-exports
 
 const bList = new BookList();
 const bookTitle = document.getElementById('bookTilte');
