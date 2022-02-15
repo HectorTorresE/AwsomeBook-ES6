@@ -1,5 +1,4 @@
-/* eslint-disable import/no-cycle */
-// eslint-disable-next-line import/no-mutable-exports
+/* eslint-disable import/no-unresolved */
 import BookList from '../modules/bookList.js';
 import { DateTime } from '../node_modules/luxon/build/es6/luxon.js';
 
