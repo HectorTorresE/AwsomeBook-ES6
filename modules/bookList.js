@@ -1,5 +1,6 @@
+/* eslint-disable import/no-cycle */
 import Book from './Book.js';
- 
+
 export default class {
   constructor() {
     this.Books = [];
@@ -19,5 +20,4 @@ export default class {
       this.Books.splice(index, 1);
     }
   }
-
 }
