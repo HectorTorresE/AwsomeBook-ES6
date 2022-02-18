@@ -1,5 +1,5 @@
 # Awsome Books
-This is a Book libary that includes the ability to add and remove book from a list
+This is a Book library  that includes the ability to add and remove book from a list
 
 ![image](https://user-images.githubusercontent.com/31547587/153972403-71268863-5226-4738-beb2-149889a49786.png)
 
