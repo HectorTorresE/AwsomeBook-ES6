@@ -1,5 +1,5 @@
 # Awsome Books
-This project based on the linter configuration. setup project built with html and css
+This is a Book libary that includes the ability to add and remove book from a list
 
 ![image](https://user-images.githubusercontent.com/31547587/153972403-71268863-5226-4738-beb2-149889a49786.png)
 
@@ -11,14 +11,6 @@ This project based on the linter configuration. setup project built with html an
 - HTML, CSS, and JavaScript
 
 
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
 
 ### Setup
 
